@@ -1,6 +1,6 @@
 <?php
-define('SITE_KEY', '6LebC4YUAAAAAOrNz0c1CGPUU3wl3lH3ZqCjnur3');
-define('SECRET_KEY', '6LebC4YUAAAAACudHW8SRk9XDIPs59hlLUOtLddO');
+define('SITE_KEY', '6LdShMAUAAAAAB68k1mrHBjyVE__ZgyUveR_dG6J');
+define('SECRET_KEY', '6LdShMAUAAAAAO_hi0AwPYzVT1szzNEb4p324-cp');
 
 if($_POST){
     function getCaptcha($SecretKey){
